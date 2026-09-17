@@ -49,3 +49,5 @@ void loop() {
 
 ## Result
 The LED successfully blinked ON and OFF at intervals of 1 second, confirming correct interfacing of the LED with the microcontroller's GPIO pin and successful execution of the digital output control program. The experiment demonstrates the basic principle of di
+
+![alttext](https://raw.githubusercontent.com/safdarhashmi/IOT-lab-experiment/refs/heads/main/exp1.png)
